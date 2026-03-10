@@ -1,2 +1,2 @@
-name='diqanayeva'
-print( name.count (''))
+name="diqanayeva"
+print( name.upper(""))
