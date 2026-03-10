@@ -1,2 +1,2 @@
-name = 'diqanayeva'
-print( len (name ))
+name='diqanayeva'
+print( name.count (''))
