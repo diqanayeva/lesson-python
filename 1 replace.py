@@ -1,2 +1,2 @@
-name= "Baki gozel seherdir"
-print( name.replace ('Baki','Zaqatala'))
+name= "informatika"
+print( name*4)
