@@ -1,2 +1,2 @@
 cumle="Salam,necesiniz? Men Pyton oyrenirem."
-print( cumle [6:16])
+print( cumle [0:25:2])
