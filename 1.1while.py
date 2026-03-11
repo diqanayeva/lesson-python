@@ -1,2 +1,2 @@
 ad=""
-while len (ad) < 5:
+while len (ad)<5:
