@@ -4,6 +4,6 @@ melumatlar={
     'il' : 2009,
 
 }
-melumatlar.clear()
+melumatlar.pop( 'il')
 print( melumatlar )
    
