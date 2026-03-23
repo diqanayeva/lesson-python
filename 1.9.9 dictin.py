@@ -5,4 +5,7 @@ melumatlar={
 
 }
 melumatlar['il'] = 2026
-print(melumatlar['il'])
+
+melumatlar['reng'] = 'Qirmizi'
+
+print(melumatlar)
