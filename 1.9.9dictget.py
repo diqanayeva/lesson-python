@@ -4,6 +4,6 @@ melumatlar={
     'il' : 2009,
 
 }
-il = melumatlar.get('il') 
+for x in melumatlar:
 
-print( il )
+    print(x)
