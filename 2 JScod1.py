@@ -17,5 +17,5 @@ umumi_qiymet = 0
 
 for i in data["products"]:
      umumi_qiymet += i[ 'price' ] * i['stock']
-     
+
 print( f"\n Butun mallarin umumi deyeri: {umumi_qiymet} AZN" )
