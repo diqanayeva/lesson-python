@@ -6,6 +6,12 @@ telebeler = [
 ]
 
 telebeler.sort()
+#tuple 2 ve 3 derecesine gore tapmaq
+#telebeler.sort(key = lambda dereceler:  )
+
+derece = lambda dereceler: dereceler[1]
+
+telebeler.sort(key = derece)
 
 for i in telebeler:
     print(i)
